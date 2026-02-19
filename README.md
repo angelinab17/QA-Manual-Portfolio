@@ -8,14 +8,14 @@ This portfolio contains examples of my QA work:
 - Test Cases (PDF)
 - Bug Reports (PDF/PNG)
 - API Testing (Postman JSON)
-- Using Chrome DevTools (PDF)
+- Using Safari DevTools (PDF)
 - SQL Practice (.sql files)
 
 ## Tools used:
 - Jira
 - Postman
 - TestRail
-- Chrome DevTools
+- Safari DevTools
 - DBeaver
 - Git
 
