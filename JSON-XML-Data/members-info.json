@@ -1,0 +1,80 @@
+{
+  "members":[
+    {
+      "memberID": 24,
+      "memberName": "Tom",
+      "memberAddress":[
+        {
+          "city": "Warsaw",
+          "street": "Leshno",
+          "houseNumber": 40,
+          "apartmentNumber": 55
+        }  
+      ],
+      "memberContacts": [
+        {
+          "phoneNumber": 367543967,
+          "email": "tom234@gmail.com",
+          "telegram": "tom.tom"
+        }
+      ]
+    },
+    {
+      "memberID": 25,
+      "memberName": "Olga",
+      "memberAddress":[
+        {
+          "city": "Lviv",
+          "street": "Pasichna",
+          "houseNumber": 12,
+          "apartmentNumber": 39
+        }  
+      ],
+      "memberContacts": [
+        {
+          "phoneNumber": 5683294356,
+          "email": "o.olga34@gmail.com",
+          "telegram": "olga"
+        }
+      ]
+    },
+    {
+      "memberID": 26,
+      "memberName": "Tina",
+      "memberAddress":[
+        {
+          "city": "Lviv",
+          "street": "Dnisterska",
+          "houseNumber": 23,
+          "apartmentNumber": 60
+        }  
+      ],
+      "memberContacts": [
+        {
+          "phoneNumber": 3674239236,
+          "email": "tina567@gmail.com",
+          "telegram": "tina.tina"
+        }
+      ]
+    },
+    {
+      "memberID": 27,
+      "memberName": "Rita",
+      "memberAddress":[
+        {
+          "city": "Wroclaw",
+          "street": "Kolejowa",
+          "houseNumber": 47,
+          "apartmentNumber": 78
+        }  
+      ],
+      "memberContacts": [
+        {
+          "phoneNumber": 784565348,
+          "email": "rita78@gmail.com",
+          "telegram": "rita.r"
+        }
+      ]
+    }
+ ]
+} 
