@@ -6,7 +6,7 @@ This portfolio contains examples of my QA work:
 
 ## Projects included:
 - Test Cases (PDF)
-- Bug Reports (PDF)
+- Bug Reports (PDF/PNG)
 - API Testing (Postman JSON)
 - Screenshots (PNG/JPG)
 - SQL Practice (.sql files)
