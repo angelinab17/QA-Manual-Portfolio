@@ -18,6 +18,7 @@ This portfolio contains examples of my QA work:
 - XML
 - Online JSON/XML Editor
 - Postman
+- Trello
 - TestRail
 - Safari DevTools
 - DBeaver
