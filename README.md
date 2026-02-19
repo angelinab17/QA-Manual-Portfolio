@@ -8,7 +8,7 @@ This portfolio contains examples of my QA work:
 - Test Cases (PDF)
 - Bug Reports (PDF/PNG)
 - API Testing (Postman JSON)
-- Screenshots (PNG/JPG)
+- Using Chrome DevTools (PDF)
 - SQL Practice (.sql files)
 
 ## Tools used:
