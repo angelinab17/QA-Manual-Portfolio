@@ -26,5 +26,5 @@ Open to relocation: Yes
 [Test Cases](./Test-Cases)
 [Bug Reports](./Bug-Reports)
 [API Testing](./API-Testing)
-[Screenshots](./Screenshots)
+[Safari DevTools](./Safari-DevTools)
 [SQL Practice](./SQL-Practice)
