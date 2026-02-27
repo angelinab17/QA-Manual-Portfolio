@@ -6,14 +6,14 @@
       "memberAddress":[
         {
           "city": "Warsaw",
-          "street": "Leshno",
-          "houseNumber": 40,
-          "apartmentNumber": 55
+          "street": "Street1",
+          "houseNumber": 1,
+          "apartmentNumber": 1
         }  
       ],
       "memberContacts": [
         {
-          "phoneNumber": 367543967,
+          "phoneNumber": "-",
           "email": "tom234@gmail.com",
           "telegram": "tom.tom"
         }
@@ -25,14 +25,14 @@
       "memberAddress":[
         {
           "city": "Lviv",
-          "street": "Pasichna",
-          "houseNumber": 12,
-          "apartmentNumber": 39
+          "street": "Street2",
+          "houseNumber": 2,
+          "apartmentNumber": 2
         }  
       ],
       "memberContacts": [
         {
-          "phoneNumber": 5683294356,
+          "phoneNumber": "-",
           "email": "o.olga34@gmail.com",
           "telegram": "olga"
         }
@@ -44,14 +44,14 @@
       "memberAddress":[
         {
           "city": "Lviv",
-          "street": "Dnisterska",
-          "houseNumber": 23,
-          "apartmentNumber": 60
+          "street": "Street3",
+          "houseNumber": 3,
+          "apartmentNumber": 3
         }  
       ],
       "memberContacts": [
         {
-          "phoneNumber": 3674239236,
+          "phoneNumber": "-",
           "email": "tina567@gmail.com",
           "telegram": "tina.tina"
         }
@@ -63,14 +63,14 @@
       "memberAddress":[
         {
           "city": "Wroclaw",
-          "street": "Kolejowa",
-          "houseNumber": 47,
-          "apartmentNumber": 78
+          "street": "Street4",
+          "houseNumber": 4,
+          "apartmentNumber": 4
         }  
       ],
       "memberContacts": [
         {
-          "phoneNumber": 784565348,
+          "phoneNumber": "-",
           "email": "rita78@gmail.com",
           "telegram": "rita.r"
         }
