@@ -29,8 +29,7 @@ During my practice I created test cases and bug reports for the following websit
 - DBeaver
 - Git
 
-Location: Athens, Greece
-Open to relocation: Yes
+Location: Warsaw, Poland
 
 ## Folder Links
 [Test Cases](./Test-Cases)
