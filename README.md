@@ -12,7 +12,7 @@ This portfolio contains examples of my QA work:
 - Using Safari DevTools (PDF)
 - SQL Practice (.sql files)
 
- Tested Websites:
+## Tested Websites:
 During my practice I created test cases and bug reports for the following websites:
 - GoIt QA autocheck test (https://qa-autocheck-test.goit.global/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=xyz01ab35)
 - Santander (https://apps.apple.com/pl/app/santander-business-banking/id1140839247)
