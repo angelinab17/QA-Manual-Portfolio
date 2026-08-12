@@ -29,7 +29,7 @@ During my practice I created test cases and bug reports for the following websit
 - DBeaver
 - Git
 
-Location: Warsaw, Poland
+Location: Lviv, Ukraine
 
 ## Folder Links
 [Test Cases](./Test-Cases)
